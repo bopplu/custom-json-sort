@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bopplu.customjsonsort.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bopplu.customjsonsort.MyBundle
 
 class MyApplicationService {
 
